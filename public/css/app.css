@@ -455,7 +455,8 @@ label {
     }
 
     .f-footer {
-        height: 60vh;
+        height: max-content;
+        padding: 10vh 0;
     }
 
 }
